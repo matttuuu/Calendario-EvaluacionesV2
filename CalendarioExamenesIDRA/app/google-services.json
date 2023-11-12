@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793531594420",
+    "project_id": "tplogin-40de4",
+    "storage_bucket": "tplogin-40de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793531594420:android:9e4fead6425914a49189e1",
+        "android_client_info": {
+          "package_name": "com.example.calendarioexamenes_idra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuSa4VzQsFem9AgLAYY-CS4PHtxaJJAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
